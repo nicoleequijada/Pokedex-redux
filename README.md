@@ -24,3 +24,4 @@ Todos los datos vienen de [PokeApi](https://pokeapi.co/)
 ## 🧾 License
 
 The MIT License (MIT)
+# Pokedex-redux
